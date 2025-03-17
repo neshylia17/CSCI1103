@@ -1,4 +1,3 @@
-package labs.lab6;
 
 import java.time.Year;
 import java.util.Scanner;
